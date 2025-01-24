@@ -118,9 +118,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/AI-Image-Generator-MERN-MERN](https://github.com/yourusername/AI-Image-Generator-MERN-MERN)
+Name - Shwetang Dalvi 
+Email - Shwetang.dalvi1991@gmail.com
+LinkedIn - [https://linkedin.com/in/shwetangdalvi](https://linkedin.com/in/shwetangdalvi)
+Project Link: [https://github.com/shwetangdalvi/AI-Image-Generator-MERN-MERN](https://github.com/shwetangdalvi/AI-Image-Generator-MERN-MERN)
 
 
 ## Features
