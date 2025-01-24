@@ -1,5 +1,4 @@
 
-```markdown
 # AI Image Generator MERN
 
 This is a full-stack AI Image Generator project built with the MERN stack (MongoDB, Express, React, Node.js).
@@ -26,9 +25,7 @@ This is a full-stack AI Image Generator project built with the MERN stack (Mongo
    npm install
    ```
 
-3. **Create a `.env` file in the root of the 
-
-server
+3. **Create a `.env` file in the root of the server**
 
  directory and add the following:**
 
@@ -49,11 +46,7 @@ server
    npm install
    ```
 
-5. **Create a `.env` file in the root of the 
-
-client
-
- directory and add the following:**
+5. **Create a `.env` file in the root of the client directory and add the following:**
 
    ```properties
    REACT_APP_API_SERVER_URL=http://localhost:8080
@@ -128,7 +121,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [your.email@example.com](mailto:your.email@example.com)
 
 Project Link: [https://github.com/yourusername/AI-Image-Generator-MERN-MERN](https://github.com/yourusername/AI-Image-Generator-MERN-MERN)
-```
 
 
 ## Features
