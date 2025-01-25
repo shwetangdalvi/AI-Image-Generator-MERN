@@ -157,3 +157,12 @@ If you encounter any issues, please check the following:
 - [Cloudinary Documentation](https://cloudinary.com/documentation)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Express Documentation](https://expressjs.com/en/starter/installing.html)
+
+## Demo 
+LinkedIn Post with video: https://www.linkedin.com/posts/shwetangdalvi_ai-mernstack-webdevelopment-activity-7288770468105310210-cfNp?utm_source=share&utm_medium=member_desktop
+
+![Home](https://github.com/user-attachments/assets/436293fa-0658-4da7-bfa5-3e25ab82600e)
+![Multi model](https://github.com/user-attachments/assets/1476a236-e64a-4e71-a1ff-1da76320624b)
+
+https://www.linkedin.com/posts/shwetangdalvi_ai-mernstack-webdevelopment-activity-7288770468105310210-cfNp?utm_source=share&utm_medium=member_desktop
+
