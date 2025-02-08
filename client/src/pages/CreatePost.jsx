@@ -38,6 +38,9 @@ const CreatePost = () => {
           },
           body: JSON.stringify({
             prompt: form.prompt,
+            model: form.model,
+            width: form.width,
+            height: form.height,
           }),
         });
 
@@ -125,7 +128,7 @@ const CreatePost = () => {
               <select
                   name="model"
                   value={form.model}
-                  onChange={handleChange}
+                  handleChange={handleChange}
                   className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md"
               >
                   {[
@@ -150,7 +153,7 @@ const CreatePost = () => {
               name="width"
               placeholder="1024"
               value={form.width}
-              onChange={handleChange}
+              handleChange={handleChange}
           />
           <FormField 
               labelName="Height"
@@ -158,7 +161,7 @@ const CreatePost = () => {
               name="height"
               placeholder="1024"
               value={form.height}
-              onChange={handleChange}
+              handleChange={handleChange}
           />
           </div>
           <div className="relative bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 w-64 p-3 h-64 flex justify-center items-center">
